@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+
+}
+
+.App-header {
+  background: rgb(197,84,245);
+  background: radial-gradient(circle, rgba(197,84,245,1) -31%, rgba(29,22,82,0.9360119047619048) 100%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
