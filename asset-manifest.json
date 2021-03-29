@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lieta96/Contador/static/css/main.27cf1c25.chunk.css",
+    "main.js": "/lieta96/Contador/static/js/main.4a1b8621.chunk.js",
+    "main.js.map": "/lieta96/Contador/static/js/main.4a1b8621.chunk.js.map",
+    "runtime-main.js": "/lieta96/Contador/static/js/runtime-main.e80d4849.js",
+    "runtime-main.js.map": "/lieta96/Contador/static/js/runtime-main.e80d4849.js.map",
+    "static/js/2.6a7eafd3.chunk.js": "/lieta96/Contador/static/js/2.6a7eafd3.chunk.js",
+    "static/js/2.6a7eafd3.chunk.js.map": "/lieta96/Contador/static/js/2.6a7eafd3.chunk.js.map",
+    "static/js/3.f971a781.chunk.js": "/lieta96/Contador/static/js/3.f971a781.chunk.js",
+    "static/js/3.f971a781.chunk.js.map": "/lieta96/Contador/static/js/3.f971a781.chunk.js.map",
+    "index.html": "/lieta96/Contador/index.html",
+    "static/css/main.27cf1c25.chunk.css.map": "/lieta96/Contador/static/css/main.27cf1c25.chunk.css.map",
+    "static/js/2.6a7eafd3.chunk.js.LICENSE.txt": "/lieta96/Contador/static/js/2.6a7eafd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e80d4849.js",
+    "static/js/2.6a7eafd3.chunk.js",
+    "static/css/main.27cf1c25.chunk.css",
+    "static/js/main.4a1b8621.chunk.js"
+  ]
+}
